@@ -8,4 +8,4 @@ Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
 @alurastartestudante
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fpokemon&psig=AOvVaw09EDUIby5tukY8ghUll35a&ust=1714089147361000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIisvumF3IUDFQAAAAAdAAAAABAE)
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fpokemon&psig=AOvVaw09EDUIby5tukY8ghUll35a&ust=1714089147361000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIisvumF3IUDFQAAAAAdAAAAABAE](link)

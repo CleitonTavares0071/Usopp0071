@@ -8,4 +8,4 @@ Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
 @alurastartestudante
-![](https://i.gifer.com/YNXo.gif)
+![https://i.gifer.com/YNXo.gif]()
